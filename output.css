@@ -2515,11 +2515,3 @@ input:checked+.toggle-bg {
   font-style: normal;
 }
 
-.linea-hr {
-  height: 5px;
-  border-radius: 15px;
-  width: 50%;
-  margin: auto;
-  background: rgb(10, 234, 187);
-  background: linear-gradient(90deg, rgba(10, 234, 187, 1) 12%, rgba(10, 226, 189, 1) 15%, rgba(0, 8, 255, 1) 100%);
-}
