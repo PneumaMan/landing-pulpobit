@@ -28,3 +28,7 @@
 .color-hover-links:hover {
   color: #0367A6;
 }
+
+.img-inicial{
+  border-radius:120px !important;
+}
