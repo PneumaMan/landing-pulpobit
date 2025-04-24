@@ -25,6 +25,10 @@
   width: 25px;
 }
 
+.color-hover-links{
+  color: #04BF8A;
+  font-weight: 700 !important;
+}
 .color-hover-links:hover {
   color: #0367A6;
 }
